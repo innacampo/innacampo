@@ -1,4 +1,4 @@
-### **Hi there\! I'm a founder and principal scientist at HARMONI lab. I'm on a mission to open-code women’s health.**
+### **Hi there\! I am the founder and principal scientist of HARMONI lab. I'm on a mission to open-code women’s health.**
 
 Historically, critical data and tools surrounding women's health have been either heavily under-researched or locked away in proprietary silos. I am a developer working to change that by building a transparent, open-source infrastructure for health research and privacy-centric technology.
 

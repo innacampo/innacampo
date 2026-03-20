@@ -1,6 +1,6 @@
 # Inna Campo
 
-**Founder & Principal Scientist - [HARMONI lab](https://harmonilab.org)**  
+**Bioinformatics AI Scientist - [HARMONI lab](https://harmonilab.org)**  
 Building open-source infrastructure for women's health research and privacy-first technology.
 
 > *Human-in-the-loop, by design.*
